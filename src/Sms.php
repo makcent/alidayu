@@ -1,5 +1,5 @@
 <?php
-namespace makcent\sms;
+namespace makcent\dysms;
 
 use yii\base\Component;
 use Aliyun\Core\Config;

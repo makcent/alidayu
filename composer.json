@@ -22,7 +22,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-			"makcent\\sms\\":"src/",
+			"makcent\\dysms\\":"src/",
             "Aliyun\\": "src/lib/"
         }
     }
