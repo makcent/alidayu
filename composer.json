@@ -23,7 +23,7 @@
     "autoload": {
         "psr-4": {
 			"makcent\\sms\\":"src/",
-            "Aliyun\\": "src/lib/",
+            "Aliyun\\": "src/lib/"
         }
     }
 }
