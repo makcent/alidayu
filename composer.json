@@ -1,5 +1,5 @@
 {
-    "name": "makcent/aliyun-dysms-php-sdk",
+    "name": "makcent/dysms",
     "description": "Aliyun SMS SDK for PHP",
     "keywords": [ "makcent", "aliyun", "SMS", "sdk" ],
     "type": "library",
